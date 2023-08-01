@@ -1,0 +1,9 @@
+.pokemonDiv {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  background-color: #eee;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 0 #00000080;
+  text-align: center;
+}
